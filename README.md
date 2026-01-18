@@ -1,16 +1,2 @@
-# flutter_application_1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Выполнил: Ишкаев Тимур 9-2ПО-22, Приложение: SmartBudget.
+Приложение для подсчёта расходов за месяц помогает записывать траты, распределять их по категориям и видеть общую сумму расходов. Оно позволяет быстро понять, куда уходят деньги, и удобнее контролировать личный бюджет.
