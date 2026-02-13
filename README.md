@@ -15,4 +15,4 @@ SmartBudget — Приложение для учета личных расход
 
 🔐 Персонализация: Регистрация пользователя и сохранение сессии.
 
-<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/01055e31-d870-49ba-ad39-9bc5204df73d" />
+<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/babbfc38-5f36-4afa-9130-4d0aec3fe322" />
