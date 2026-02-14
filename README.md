@@ -5,6 +5,12 @@
 
 --------------------------------------------------
 
+# 📱 СКРИНШОТЫ ПРИЛОЖЕНИЯ
+<img width="1200" height="628" alt="Image" src="https://github.com/user-attachments/assets/789d56c9-d0a9-42b3-997f-465e24376bd9" />
+<img width="1200" height="628" alt="Image" src="https://github.com/user-attachments/assets/781e5427-4509-4abd-a8cf-771b63dcab61" />
+<img width="1200" height="628" alt="Image" src="https://github.com/user-attachments/assets/a83300c6-28b0-419b-8b91-5c405522c219" />
+<img width="1200" height="628" alt="Image" src="https://github.com/user-attachments/assets/81bfc1d0-2ee6-4008-a3ad-294f00ad85bc" />
+
 # КОРОТКОЕ ОПИСАНИЕ
 
 Контролируй свои расходы и бюджет легко. Автоматический расчет в любой валюте!
@@ -43,16 +49,3 @@
 
 # 🎨 ИКОНКА ПРИЛОЖЕНИЯ
 <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/babbfc38-5f36-4afa-9130-4d0aec3fe322" />
-
-
---------------------------------------------------
---------------------------------------------------
---------------------------------------------------
-# 📱 СКРИНШОТЫ ПРИЛОЖЕНИЯ
-<img width="1200" height="628" alt="Image" src="https://github.com/user-attachments/assets/789d56c9-d0a9-42b3-997f-465e24376bd9" />
-<img width="1200" height="628" alt="Image" src="https://github.com/user-attachments/assets/781e5427-4509-4abd-a8cf-771b63dcab61" />
-<img width="1200" height="628" alt="Image" src="https://github.com/user-attachments/assets/a83300c6-28b0-419b-8b91-5c405522c219" />
-<img width="1200" height="628" alt="Image" src="https://github.com/user-attachments/assets/81bfc1d0-2ee6-4008-a3ad-294f00ad85bc" />
---------------------------------------------------
---------------------------------------------------
---------------------------------------------------
