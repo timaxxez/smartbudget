@@ -5,6 +5,8 @@
 
 --------------------------------------------------
 
+https://github.com/user-attachments/assets/c4e82b08-f68c-423b-b598-c323e48ad37d
+
 # 📱 СКРИНШОТЫ ПРИЛОЖЕНИЯ
 <img width="1200" height="628" alt="Image" src="https://github.com/user-attachments/assets/789d56c9-d0a9-42b3-997f-465e24376bd9" />
 <img width="1200" height="628" alt="Image" src="https://github.com/user-attachments/assets/781e5427-4509-4abd-a8cf-771b63dcab61" />
